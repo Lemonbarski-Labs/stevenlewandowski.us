@@ -1,2 +1,2 @@
-# stevenlewandowski
-https://stevenlewandowski.us and affiliated projects. Steven Lewandowski personal brand.
+# stevenlewandowski.us
+https://stevenlewandowski.us redevelopment source code. Development by Lemonbarski Labs by Steven Lewandowski. https://lemonbarski.com
